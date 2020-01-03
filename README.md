@@ -1,1 +1,1 @@
-#Node + Sequelizerc project
+# Node + Sequelizerc project
